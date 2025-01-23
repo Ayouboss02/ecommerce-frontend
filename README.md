@@ -1,6 +1,6 @@
 
 
-# Frontend - Mobile Shopping Platform
+# Frontend - ecommerce-project-microservices
 
 ## Description
 Ce dépôt contient le frontend de la plateforme d'achat mobile, développé avec **React Native**. Cette application mobile offre une interface utilisateur pour parcourir les produits, gérer le panier, et passer des commandes.
